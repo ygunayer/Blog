@@ -62,3 +62,7 @@ Projeye eklenmesi istenen değişiklikler için birer branch açılıp, bu branc
 
 Branch kullanımı, Pull Request oluşturma, merge gibi işlemler ile ilgili bilgi almak için bu video'yu izleyebilirsiniz:
 https://www.youtube.com/watch?v=DNsV8kz2fh4
+
+## Katılımcılar
+Projeye katkı sağlayan katılımcılar aşağıdaki listeye adlarını ve GitHub profil adreslerini eklemelidir:
+- Yalın Günayer - [ygunayer](https://github.com/ygunayer)
