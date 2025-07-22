@@ -18,14 +18,6 @@ Açılan her task'a yapılacak işi ve gereksinimleri listeleyen bir açıklama 
 
 Testlerden geçtikten sonra Done'a çekilmiş, fakat sonrasında çalışmasıyla ilgili hataların/eksiklerin bulunduğu farkedilmiş task'lar Done'da bırakılmaya devam edilmeli; hata düzeltme ya da eksik gidermeye ilişkin yeni bir task açılmalıdır.
 
-## Branch Yönetimi
-Projenin ana branch'i `main`'dir ve bu branch push koruması altındadır.
-
-Projeye eklenmesi istenen değişiklikler için birer branch açılıp, bu branch'lerden `main` branch'ine Pull Request oluşturulmalıdır.
-
-Branch kullanımı, Pull Request oluşturma, merge gibi işlemler ile ilgili bilgi almak için bu video'yu izleyebilirsiniz:
-https://www.youtube.com/watch?v=DNsV8kz2fh4
-
 ## Git'e Eklenecek/Eklenmeyecek Dosyalar
 Yapılan her değişiklikte stage'deki dizin ve dosyalar gözden geçirilmeli, gerekli olmayanlar commit'lenmemelidir.
 
@@ -45,3 +37,28 @@ Git'e **eklenmemesi gereken** dosyalar:
 - Paket yöneticisi içerik dizinleri (örn. `node_modules`, Cargo projelerinde `target`)
 - Compiler tarafından üretilen cache dosya ve dizinleri (örn. `__pycache__`, `*.__pyc`)
 - Log dosyaları (`*.log`)
+
+## Commit Mesajları
+Git'e eklenecek her commit için bir mesaj girilmelidir. Girilen mesajlar, büyük harfle başlayıp, yapılmış olan işi kısaca anlatan ve emir kipi kullanan İngilizce cümleler olarak belirtilmelidir.
+
+Hatalı commit mesajları:
+- test
+- sdf
+- deneme
+- değişiklikler yapıldı
+- README.md güncellendi
+- task yönetimi eklendi
+- Added contribution guidelines
+
+Doğru commit mesajları:
+- Update README
+- Add task management functionality
+- Add contribution guidelines
+
+## Branch Yönetimi
+Projenin ana branch'i `main`'dir ve bu branch push koruması altındadır.
+
+Projeye eklenmesi istenen değişiklikler için birer branch açılıp, bu branch'lerden `main` branch'ine Pull Request oluşturulmalıdır.
+
+Branch kullanımı, Pull Request oluşturma, merge gibi işlemler ile ilgili bilgi almak için bu video'yu izleyebilirsiniz:
+https://www.youtube.com/watch?v=DNsV8kz2fh4
