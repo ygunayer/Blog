@@ -4,7 +4,7 @@ Projeye katkı sağlamak için gerekli bilgiler ve katılım kuralları burada b
 Bu bilgiler tüm katılımcılar tarafından dikkate alınmalı, kurallar hem kod eklemek isteyen katılımcılar, hem de eklenmek istenen kodları ineceleyip onaylayacak reviewer'lar tarafından uygulanmalıdır.
 
 ## Proje Yönetimi
-Projenin yazılım geliştirme süreçleri, burada belirtilen GitHub Projects üzerinden takip edilmelidir: (link eklenecek)
+Projenin yazılım geliştirme süreçleri, burada belirtilen GitHub Projects üzerinden takip edilmelidir: [@GamzeBuyuktorun - Blog](https://github.com/users/ygunayer/projects/5)
 
 Yapılacak ya da yapılması gereken her iş bir GitHub Projects task'ıyla ilişkilendirilmelidir. Hali hazırda yapılacak işle ilgili bir task bulunmuyorsa, buna ilişkin yeni bir task oluşturulmalıdır.
 

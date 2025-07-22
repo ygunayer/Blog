@@ -1,6 +1,10 @@
 # Blog
 Bu bir blog yönetim sistemi projesidir.
 
+Bu sisteme üye olan kullanıcılar istedikleri sayıda blog oluşturabilir, blog'larına istedikleri sayıda yazı girebilirler.
+
+Blog yazıları Markdown olarak düzenlenir ve HTML olarak gösterilir.
+
 ## Geliştirme
 Projeyi çalıştırmak için gerekli bilgiler bu bölümde listelenmiştir.
 
