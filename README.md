@@ -11,6 +11,11 @@ Projeyi çalıştırmak için gerekli bilgiler bu bölümde listelenmiştir.
 ### Gereksinimler
 > Buraya projeyi bilgisayarda çalıştırmak için gereken programlama dilleri, framework'ler ve araç-gereçler girilecek.
 
+.NET 8.0 SDK - ASP.NET Core uygulamasını derlemek ve çalıştırmak için
+SQLite - Veritabanı olarak kullanılıyor 
+Git - Kaynak kod versiyonlama için
+Visual Studio Code - Geliştirme ortamı 
+
 ### Çalıştırma
 > Buraya projeyi çalıştırmak ve devamlılığını sağlamak için gerekli yönergeler girilecek (örn. çalıştırma/derleme komutları, varsa veritabanı oluşturma ve güncelleme yönergeleri)
 
